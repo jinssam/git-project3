@@ -29,8 +29,19 @@ body {
 .navigation li {
   display: inline-block;
 }
-
-
+.KMS {
+  margin-top: 50px;
+  padding: 0 100px;
+  color: coral;
+  background-color: #111;
+}
+.cjy {
+  padding: 100px 50px 0 100px;
+  color: brown;
+  line-height: 1.7;
+  font-weight: 500;
+  text-align: justify;
+}
 
 
 
