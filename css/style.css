@@ -14,6 +14,8 @@ body {
 .header {
   border-bottom: 2px solid red;
   padding: 30px;
+  display: flex;
+  justify-content: space-between;
 }
 .container {
   width: 1200px;
@@ -23,6 +25,9 @@ body {
   text-align: center;
   background: #ccc;
   padding: 100px;
+}
+.navigation li {
+  display: inline-block;
 }
 
 
