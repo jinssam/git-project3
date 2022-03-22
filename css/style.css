@@ -24,6 +24,12 @@ body {
   background: #ccc;
   padding: 100px;
 }
+.KMS {
+  margin-top: 50px;
+  padding: 0 100px;
+  color: coral;
+  background-color: #111;
+}
 
 .cjy {
   padding: 100px 50px 0 100px;
